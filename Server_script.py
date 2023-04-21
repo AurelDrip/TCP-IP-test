@@ -10,7 +10,7 @@ import time
 
 
 def get_event_data():
-    # Replace this function with the actual code to read data from your event camera.
+    # Replace this function with the code to read data.
     event_data = [
         {'x': 10, 'y': 20, 'timestamp': time.time(), 'polarity': 1},
         {'x': 15, 'y': 25, 'timestamp': time.time(), 'polarity': 0},

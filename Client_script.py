@@ -9,7 +9,7 @@ import pickle
 
 
 def process_event_data(event_data):
-    # Process the received event data as needed (e.g., display or analyze)
+    # Process the received event data
     print("Received event data:", event_data)
 
 
